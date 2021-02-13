@@ -99,10 +99,16 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ## **Badges**
 
-<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200">
-<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="200">
-<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" width="200">
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" width="200"></td>
+  </tr>
+</table>
+  
 ## **Humor**
 Estados posibles de humor:
 - :grinning:
