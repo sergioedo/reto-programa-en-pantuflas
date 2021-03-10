@@ -2,15 +2,32 @@
 
 ![](https://img.shields.io/badge/Pantufla_1-1-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 ![](https://img.shields.io/badge/Pantufla_5-5-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
-![](https://img.shields.io/badge/Pantufla_15-5/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
+![](https://img.shields.io/badge/Pantufla_15-6/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
 ![](https://img.shields.io/badge/%F0%9F%98%80-4-green.svg)
 ![](https://img.shields.io/badge/%F0%9F%98%90-1-blue.svg)
-![](https://img.shields.io/badge/%F0%9F%98%95-0-red.svg)
+![](https://img.shields.io/badge/%F0%9F%98%95-1-red.svg)
 
 ## **Mi diario empieza aquí**
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+
+---
+
+**Fecha**: 10/03/2021 
+
+**Humor**: :frowning_face:
+
+**Hitos conseguidos**:
+
+* Segundo reto de [#retos-livechallenge](https://github.com/sergioedo/retos-livechallenge) --> #React + [#LaravelMix](https://laravel-mix.com/).
+* Enterrado en el proyecto #lego.js...(casi un mes!)...empiezo a ver la luz al final del tunel...
+
+**Próximos hitos**
+
+* Acabar documentación de #lego.js, la deadline se acerca...
+* Revisar librerías para hacer gráficas, para integrar alguna en el prototipo de dashboard (chartjs, highcharts, chartist...).
+* Empezar con la edición de datos [#ra-data-geoserver](https://github.com/sergioedo/ra-data-geoserver)
 
 ---
 
@@ -106,6 +123,9 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-nacar.png" width="200"></td>
   </tr>
 </table>
   
