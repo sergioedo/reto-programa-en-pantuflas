@@ -4,13 +4,29 @@
 ![](https://img.shields.io/badge/Pantufla_5-5-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 ![](https://img.shields.io/badge/Pantufla_15-6/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
-![](https://img.shields.io/badge/%F0%9F%98%80-4-green.svg)
-![](https://img.shields.io/badge/%F0%9F%98%90-1-blue.svg)
-![](https://img.shields.io/badge/%F0%9F%98%95-1-red.svg)
+![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/grinning)
+![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/neutral_face)
+![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/frowning_face)
 
 ## **Mi diario empieza aquí**
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+
+---
+
+**Fecha**: 15/03/2021 
+
+**Humor**: :grinning:
+
+**Hitos conseguidos**:
+
+* Acabando #lego.js...añadidos webhooks con GitHub
+* Aprendiendo un poco más de CSS aplicando #grid-layout en parte de un dashboard
+
+**Próximos hitos**
+
+* Montar nuevo layout de dashboard con #nextjs y #material-ui.
+* Empezar con la edición de datos [#ra-data-geoserver](https://github.com/sergioedo/ra-data-geoserver)
 
 ---
 
