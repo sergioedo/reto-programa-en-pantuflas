@@ -15,8 +15,6 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 **Fecha**: 15/03/2021 
 
 **Humor**: :grinning:
-**Humor**: :grinning:
-**Humor**: :grinning:
 
 **Hitos conseguidos**:
 
