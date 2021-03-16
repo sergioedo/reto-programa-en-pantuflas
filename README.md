@@ -27,6 +27,21 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 * Montar nuevo layout de dashboard con #nextjs y #material-ui.
 * Empezar con la edición de datos [#ra-data-geoserver](https://github.com/sergioedo/ra-data-geoserver)
+---
+
+**Fecha**: 15/03/2021 
+
+**Humor**: :grinning:
+
+**Hitos conseguidos**:
+
+* Acabando #lego.js...añadidos webhooks con GitHub
+* Aprendiendo un poco más de CSS aplicando #grid-layout en parte de un dashboard
+
+**Próximos hitos**
+
+* Montar nuevo layout de dashboard con #nextjs y #material-ui.
+* Empezar con la edición de datos [#ra-data-geoserver](https://github.com/sergioedo/ra-data-geoserver)
 
 ---
 
