@@ -2,15 +2,30 @@
 
 ![](https://img.shields.io/badge/Pantufla_1-1-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 ![](https://img.shields.io/badge/Pantufla_5-5-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
-![](https://img.shields.io/badge/Pantufla_15-7/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
+![](https://img.shields.io/badge/Pantufla_15-8/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/grinning)
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/neutral_face)
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/frowning_face)
+![](https://img.shields.io/badge/%F0%9F%98%80-5-green.svg)
+![](https://img.shields.io/badge/%F0%9F%98%90-2-blue.svg)
+![](https://img.shields.io/badge/%F0%9F%98%95-1-red.svg)
 
 ## **Mi diario empieza aquí**
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+
+**Fecha**: 06/04/2021 
+
+**Humor**: :neutral_face:
+
+**Hitos conseguidos**:
+
+* Nuevo layout de dashboard con #nextjs y #material-ui.
+
+**Próximos hitos**
+
+* Usar #rechart.js para hacer los histogramas de uno de los dashboards.
+* Tests e2e de login con #cypress.
+
+---
 
 **Fecha**: 15/03/2021 
 
