@@ -12,6 +12,21 @@
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
 
+**Fecha**: 09/04/2021 
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+* Nuevo layout de dashboard con #nextjs y #material-ui.
+
+**Próximos hitos**
+
+* Usar #rechart.js para hacer los histogramas de uno de los dashboards.
+* Tests e2e de login con #cypress.
+
+---
+
 **Fecha**: 06/04/2021 
 
 **Humor**: :neutral_face:
