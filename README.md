@@ -12,18 +12,21 @@
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
 
-**Fecha**: 09/04/2021 
+**Fecha**: 01/05/2021 
 
-**Humor**: 😀
+**Humor**: :grinning:
 
 **Hitos conseguidos**:
 
-* Nuevo layout de dashboard con #nextjs y #material-ui.
+* Dashboard: histogramas replicados usando #rechart.js (es un clon! visualmente busca las 7 diferencias...)
+* Dashboard: sincronización entre histogramas (selección de un punto sobre histograma maestro, actualización de histograma de detalle)
 
 **Próximos hitos**
 
-* Usar #rechart.js para hacer los histogramas de uno de los dashboards.
-* Tests e2e de login con #cypress.
+* Dashboard: añadir un componente de listado/tabla y sincronizar el resto de gráficos al seleccionar un elemento.
+* Dashboard: añadir capacidad de filtro global (componente de filtro + sincronizar el estado global)
+* Dashboard: refactor de lógica de obtención de los datos en custom hooks
+* Testing: tests e2e del login al sistema, con #cypress.
 
 ---
 
