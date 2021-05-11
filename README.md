@@ -4,13 +4,30 @@
 ![](https://img.shields.io/badge/Pantufla_5-5-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 ![](https://img.shields.io/badge/Pantufla_15-8/15-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAALCAYAAAESMn1bAAAABGdBTUEAALGPC/xhBQAAAQxJREFUOBGtkzsOAVEUho1XoaHVUKqVFsAi0EhEPQtQK21Ar7YAtUZiAVQSQTQq0ZDxHe65Zm68gpN8Of953sm9mVgMC4KgJN5DrPFJOEnCmlYkkfc0TXugGl+0mnzVBq6g2Ied5HVvHr1xGyMxEyvYgtggUnQDGjowljw+oXV0Ba4f7fm+n9PCV55FI7DX8XIJjXFQOyDK7waGNHWhBVPYg1jv4aBUtIBMhbTNJynIC1sLx6F5ubVr3++3ZI8ygs09UJsjfPjtKfQQFtXM5gU+AQ0Th93E5NM695FnKAtHOENBhvB1WELLxBl0G2agFv2bnp1Gt3yZWPNZj5u/td9fXuryV9kndwf+EV8AiiIWaJvPWVAAAAAASUVORK5CYII=)
 
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/grinning)
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/neutral_face)
-![](https://lego-js-vi7gr.ondigitalocean.app/insignias/sergioedo/humor/frowning_face)
+![](https://insignias.malandriners.dev/insignias/sergioedo/humor/grinning)
+![](https://insignias.malandriners.dev/insignias/sergioedo/humor/neutral_face)
+![](https://insignias.malandriners.dev/insignias/sergioedo/humor/frowning_face)
 
 ## **Mi diario empieza aquí**
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+
+**Fecha**: 12/05/2021 
+
+**Humor**: :neutral_face:
+
+**Hitos conseguidos**:
+
+* Dashboard: añadir un componente de listado/tabla y sincronizar el resto de gráficos al seleccionar un elemento.
+* Dashboard: añadir capacidad de filtro global (componente de filtro + sincronizar el estado global).
+
+**Próximos hitos**
+
+* Dashboard: refactor de lógica de obtención de los datos en custom hooks.
+* Testing: tests e2e del login al sistema, con #cypress.
+* Insignias: preparar entorno de desarrollo y algun refactor inicial.
+
+---
 
 **Fecha**: 01/05/2021 
 
